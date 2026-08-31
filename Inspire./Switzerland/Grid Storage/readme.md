@@ -1,1 +1,2 @@
 - [The Swiss just built a giant underground REDOX FLOW Battery. Why??](https://youtu.be/CPAFeTvjVzY) by: @JustHaveaThink
+- [Nuclear Power is Over! Switzerland’s 2.1 GWh "Liquid Battery" Just Changed the Grid](
