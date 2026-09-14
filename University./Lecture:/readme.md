@@ -1,2 +1,3 @@
 - [“Exploring electrolyte chemistry for redox flow batteries” by Dr. Kathryn Toghill](https://youtu.be/-JElHH436JY)
-- [Redox Flow Batteries for Grid Energy Storage: Exploring an Emerging Design Space - Fikile Brushett](
+- [Redox Flow Batteries for Grid Energy Storage: Exploring an Emerging Design Space - Fikile Brushett](https://youtu.be/bDI3MBR2gtQ)
+- [
