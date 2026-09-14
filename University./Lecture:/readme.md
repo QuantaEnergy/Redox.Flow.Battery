@@ -1,1 +1,2 @@
-[“Exploring electrolyte chemistry for redox flow batteries” by Dr. Kathryn Toghill](
+- [“Exploring electrolyte chemistry for redox flow batteries” by Dr. Kathryn Toghill](https://youtu.be/-JElHH436JY)
+- [
