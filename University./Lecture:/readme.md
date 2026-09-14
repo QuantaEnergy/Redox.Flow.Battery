@@ -2,4 +2,4 @@
 - [Redox Flow Batteries for Grid Energy Storage: Exploring an Emerging Design Space - Fikile Brushett](https://youtu.be/bDI3MBR2gtQ)
 
 # Has Book Recommendations
-- [What are redox flow batteries and why are they important?](
+- [What are redox flow batteries and why are they important?](https://youtu.be/t9zwgL7UpDA)
